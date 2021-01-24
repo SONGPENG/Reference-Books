@@ -11,7 +11,12 @@
 ## 3 Time Series Analysis
 
 ## 4 Probability Graph Model
+### 4.1 Paper
 
-## 5 Machine Learning & Deep Learning
+## Machine Learning & Deep Learning
 
-## 6 Practice
+## Practice
+### Hands-On Machine Learning with Scikit-Learn and TensorFlow - Géron <br>
+### D38-Python数据科学手册【高清中文版PDF+高清英文版PDF+源代码】    <br>
+### 机器学习实战 <br>
+### 动手学深度学习 <br>
